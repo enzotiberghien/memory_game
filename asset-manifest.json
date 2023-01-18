@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/memory_game/static/css/main.cdd7caf1.css",
+    "main.js": "/memory_game/static/js/main.85187aec.js",
+    "static/media/movie5.jpg": "/memory_game/static/media/movie5.993a794ab21b9c87b1a8.jpg",
+    "static/media/movie15.jpg": "/memory_game/static/media/movie15.6adcc7061d6e5d7effdb.jpg",
+    "static/media/movie16.jpg": "/memory_game/static/media/movie16.c1bdff5f7dcc068e82c0.jpg",
+    "static/media/movie1.jpg": "/memory_game/static/media/movie1.05fc37042c976df3a9f7.jpg",
+    "static/media/movie13.jpg": "/memory_game/static/media/movie13.ff150d132e2d329fe2f7.jpg",
+    "static/media/movie9.jpg": "/memory_game/static/media/movie9.1a78f8a8b7af48ad15f8.jpg",
+    "static/media/movie12.jpg": "/memory_game/static/media/movie12.dc384330bbd1940c16c2.jpg",
+    "static/media/movie10.jpg": "/memory_game/static/media/movie10.3890b3f6322e5c587f27.jpg",
+    "static/media/movie14.jpg": "/memory_game/static/media/movie14.7015c544278305df291d.jpg",
+    "static/media/movie2.jpg": "/memory_game/static/media/movie2.57cbbf569586283b1376.jpg",
+    "static/media/movie8.jpg": "/memory_game/static/media/movie8.2038d176a2b96b3f0887.jpg",
+    "static/media/movie3.jpg": "/memory_game/static/media/movie3.268ab0c5d2b292b549ca.jpg",
+    "static/media/movie7.jpg": "/memory_game/static/media/movie7.73a84270682b467f4e4a.jpg",
+    "static/media/movie6.jpg": "/memory_game/static/media/movie6.f8e67bbe07ffe6938aac.jpg",
+    "static/media/movie11.jpg": "/memory_game/static/media/movie11.5688ba387e03afb32468.jpg",
+    "static/media/movie4.jpg": "/memory_game/static/media/movie4.f0149692da3bf3316e8b.jpg",
+    "index.html": "/memory_game/index.html",
+    "main.cdd7caf1.css.map": "/memory_game/static/css/main.cdd7caf1.css.map",
+    "main.85187aec.js.map": "/memory_game/static/js/main.85187aec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdd7caf1.css",
+    "static/js/main.85187aec.js"
+  ]
+}
